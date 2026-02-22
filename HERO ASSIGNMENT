@@ -1,0 +1,226 @@
+/FIRST SECTION 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="page1.css">
+    <title>HERO SECTION</title>
+</head>
+<body>
+    <!-- first hero section -->
+    <section class="cupcake-hero">
+
+  <div class="left">
+    <img src="./cupcakes.png.png">
+    
+  </div>
+
+
+  <div class="right">
+
+    <nav>
+      <ul>
+        
+         <li>About</li>
+        <li>Features</li>
+        <li>Pricing</li>
+        <li>Gallery</li>
+        <li>Team</li>
+
+      </ul>
+
+      <button class="login">Log In</button>
+
+    </nav>
+
+
+    <div class="content">
+
+      <h1>
+        Delicious cupcakes <br>
+        from <span>CupYork</span>
+      </h1>
+
+      <p>
+        You beautiful and deserve delicious cupcakes.
+        Buy it now and enjoy the tenderness!
+      </p>
+
+      <button class="buy">Buy now</button>
+
+    </div>
+  </div>
+</section>
+
+
+/SECOND SECTION
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Hero Section</title>
+<link rel="stylesheet" href="page2.css">
+</head>
+<body>
+
+<header class="hero">
+
+<nav class="nav">
+
+<div class="logo">
+<span class="color1">|</span>
+<span class="color2">|</span>
+<span class="color3">|</span>
+SiteLogo
+</div>
+
+<ul class="menu">
+<li>About</li>
+<li>Features</li>
+<li>Pricing</li>
+<li>Gallery</li>
+<li>Team</li>
+<li>Contact</li>
+</ul>
+
+</nav>
+
+
+<div class="hero-container">
+
+<div class="left">
+
+<h1>Dmitrii Rogoza</h1>
+
+<h2>Professional Web Design</h2>
+
+<p>
+Hi! My name is Dmitrii Rogoza and I'm an expert in
+web design and branding. I can help you make your
+website more attractive.
+</p>
+
+<button>LET'S DO IT</button>
+
+</div>
+
+
+<div class="right">
+
+<img src="./man.png.png">
+
+</div>
+
+</div>
+
+</header>
+
+</body>
+</html>
+
+/THIRD SECTION
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Admin Dashboard Hero</title>
+<link rel="stylesheet" href="page3.css">
+</head>
+<body>
+
+
+<header class="hero">
+
+
+<nav class="navbar">
+
+<div class="logo">
+<span class="color1">|</span>
+<span class="color2">|</span>
+<span class="color3">|</span>
+SiteLogo
+</div>
+
+
+<ul class="menu">
+
+<li>About</li>
+<li>Features</li>
+<li>Pricing</li>
+<li>Gallery</li>
+<li>Team</li>
+
+<button class="start-btn">Get started</button>
+
+</ul>
+
+</nav>
+
+
+
+
+<div class="hero-content">
+
+
+<div class="left">
+
+
+<h1>
+
+<span class="purple">AdminDashboard</span>
+
+<br>
+
+— Free bootstrap
+
+<br>
+
+admin template
+
+</h1>
+
+
+
+<p>
+
+This is a powerful admin and dashboard template.
+It provides a clean and intuitive design that is focused
+on user experience.
+
+</p>
+
+
+
+<button class="download">
+
+Download
+
+</button>
+
+
+</div>
+
+
+
+
+<div class="right">
+
+<img src="dashboard.png.png">
+
+</div>
+
+
+
+</div>
+
+
+
+</header>
+
+
+</body>
+</html>
+
